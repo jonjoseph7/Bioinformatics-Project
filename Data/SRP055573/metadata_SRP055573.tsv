@@ -1,0 +1,69 @@
+refinebio_accession_code	experiment_accession	refinebio_age	refinebio_cell_line	refinebio_compound	refinebio_disease	refinebio_disease_stage	refinebio_genetic_information	refinebio_organism	refinebio_platform	refinebio_processed	refinebio_processor_id	refinebio_processor_name	refinebio_processor_version	refinebio_race	refinebio_sex	refinebio_source_archive_url	refinebio_source_database	refinebio_specimen_part	refinebio_subject	refinebio_time	refinebio_title	refinebio_treatment
+SRR1821783	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain157 12m control 3w rep1	
+SRR1821784	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain158 12m control 3w rep2	
+SRR1821785	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain159 12m control 3w rep3	
+SRR1821786	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain182 12m control 8w rep1	
+SRR1821787	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain183 12m control 8w rep2	
+SRR1821788	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain184 12m control 8w rep3	
+SRR1821789	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain160 36m control 3w rep1	
+SRR1821790	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain161 36m control 3w rep2	
+SRR1821791	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain162 36m control 3w rep3	
+SRR1821792	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain185 36m control 8w rep1	
+SRR1821793	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain186 36m control 8w rep2	
+SRR1821794	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain187 36m control 8w rep3	
+SRR1821795	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain188 36m control 8w rep4	
+SRR1821796	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain168 36m 3.75nM rotenone 3w rep1	
+SRR1821797	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain169 36m 3.75nM rotenone 3w rep2	
+SRR1821798	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain170 36m 3.75nM rotenone 3w rep3	
+SRR1821799	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain171 36m 3.75nM rotenone 3w rep4	
+SRR1821800	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain172 36m 3.75nM rotenone 3w rep5	
+SRR1821801	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain203 36m 3.75nM rotenone 8w rep1	
+SRR1821802	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain204 36m 3.75nM rotenone 8w rep2	
+SRR1821803	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain205 36m 3.75nM rotenone 8w rep3	
+SRR1821804	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain206 36m 3.75nM rotenone 8w rep4	
+SRR1821805	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain207 36m 3.75nM rotenone 8w rep5	
+SRR1821806	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				brain208 36m 3.75nM rotenone 8w rep6	
+SRR1821807	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver157 12m control 3w rep1	
+SRR1821808	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver159 12m control 3w rep2	
+SRR1821809	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver182 12m control 8w rep1	
+SRR1821810	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver183 12m control 8w rep2	
+SRR1821811	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver184 12m control 8w rep3	
+SRR1821812	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver161 36m control 3w rep1	
+SRR1821813	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver162 36m control 3w rep2	
+SRR1821814	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver185 36m control 8w rep1	
+SRR1821815	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver186 36m control 8w rep2	
+SRR1821816	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver188 36m control 8w rep3	
+SRR1821817	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver168 36m 3.75nM rotenone 3w rep1	
+SRR1821818	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver170 36m 3.75nM rotenone 3w rep2	
+SRR1821819	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver171 36m 3.75nM rotenone 3w rep3	
+SRR1821820	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver172 36m 3.75nM rotenone 3w rep4	
+SRR1821821	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver203 36m 3.75nM rotenone 8w rep1	
+SRR1821822	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver204 36m 3.75nM rotenone 8w rep2	
+SRR1821823	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver205 36m 3.75nM rotenone 8w rep3	
+SRR1821824	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver206 36m 3.75nM rotenone 8w rep4	
+SRR1821825	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver207 36m 3.75nM rotenone 8w rep5	
+SRR1821826	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				liver208 36m 3.75nM rotenone 8w rep6	
+SRR1821827	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin157 12m control 3w rep1	
+SRR1821828	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin158 12m control 3w rep2	
+SRR1821829	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin159 12m control 3w rep3	
+SRR1821830	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin182 12m control 8w rep1	
+SRR1821831	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin183 12m control 8w rep2	
+SRR1821832	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin184 12m control 8w rep3	
+SRR1821833	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin160 36m control 3w rep1	
+SRR1821834	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin161 36m control 3w rep2	
+SRR1821835	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin162 36m control 3w rep3	
+SRR1821836	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin185 36m control 8w rep1	
+SRR1821837	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin186 36m control 8w rep2	
+SRR1821838	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin187 36m control 8w rep3	
+SRR1821839	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin188 36m control 8w rep4	
+SRR1821840	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin168 36m 3.75nM rotenone 3w rep1	
+SRR1821841	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin169 36m 3.75nM rotenone 3w rep2	
+SRR1821842	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin170 36m 3.75nM rotenone 3w rep3	
+SRR1821843	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin171 36m 3.75nM rotenone 3w rep4	
+SRR1821844	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin172 36m 3.75nM rotenone 3w rep5	
+SRR1821845	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin203 36m 3.75nM rotenone 8w rep1	
+SRR1821846	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin204 36m 3.75nM rotenone 8w rep2	
+SRR1821847	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin205 36m 3.75nM rotenone 8w rep3	
+SRR1821848	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin206 36m 3.75nM rotenone 8w rep4	
+SRR1821849	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin207 36m 3.75nM rotenone 8w rep5	
+SRR1821850	SRP055573							DANIO_RERIO	Illumina HiSeq 2000 (IlluminaHiSeq2000)	True	133	Tximport	v1.8.0-hotfix				SRA				skin208 36m 3.75nM rotenone 8w rep6	
